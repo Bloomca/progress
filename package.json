@@ -1,0 +1,29 @@
+{
+  "name": "progress-status",
+  "version": "0.0.1",
+  "description": "Simple progress reporting in Node.js for long tasks",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "package.json"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bloomca/progress.git"
+  },
+  "keywords": [
+    "progress",
+    "status",
+    "CLI"
+  ],
+  "author": "Seva Zaikov <seva.zaikov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bloomca/progress/issues"
+  },
+  "homepage": "https://github.com/Bloomca/progress#readme"
+}
